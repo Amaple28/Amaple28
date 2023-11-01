@@ -32,7 +32,7 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 <div>
 
 <img height="20" alt="GIF" src="img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
-<div align="right">
+<div align="center">
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="img/python.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="img/c.png?raw=true"/></a></code>
