@@ -14,7 +14,7 @@
 
 -----
 
-### <img height="20" alt="GIF" src="img/soulgem.gif?raw=true"/>Sobre mim:
+<img height="20" alt="GIF" src="img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
 Técnico em <a href="https://polimig.com.br/tecnico-informatica/" target="_blank">Informática</a> pela <a href="https://polimig.com.br/" target="_blank">Escola Politécnica de Minas Gerais</a> (2020-2022). 
@@ -31,7 +31,7 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 
 <div>
 
-### <img height="20" alt="GIF" src="img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="GIF" src="img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="img/python.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="img/c.png?raw=true"/></a></code>
@@ -76,16 +76,14 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 
 -----
 
-### <img height="20" alt="GIF" src="img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaple28&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amaple28&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amaple28&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amaple28&theme=github_dark"/>
-</div>
-
------
+    <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaple28&theme=github_dark"/>
+    <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amaple28&theme=github_dark"/> -->
+    <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amaple28&theme=github_dark"/>
+    <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amaple28&theme=github_dark"/>
+</div> 
 
 -----
 
@@ -95,9 +93,9 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 <img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
 <img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/> 
 <img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>  
-<br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
+<br />
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 </div>
 
@@ -116,8 +114,7 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 <div align="center">
                                    
 ```text	
-
-<!-- amaple -->
+    
 
  █████╗  ███╗   ███╗  █████╗   █████╗  ██╗      ██████╗
 ██╔══██╗ ████╗ ████║ ██╔══██╗ ██   ██╗ ██║      ██╔═══╝
@@ -125,12 +122,7 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 ██╔══██║ ██║╚██╔╝██║ ██╔══██║ ██╔════╝ ██╚════╗ ██╔═══╝
 ██║  ██║ ██║ ╚═╝ ██║ ██║  ██║ ██║      ███████║ ██████╗
 ╚═╝  ╚═╝ ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝      ╚══════╝ ╚═════╝
-```                                        
-```text
-```
-```                                        
-```text
-```
+```   
 
 </div> 
 -----
