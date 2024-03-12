@@ -89,13 +89,7 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
     <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amaple28&theme=github_dark"/>
     <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amaple28&theme=github_dark"/>
 </div> 
-
-<p align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=Amaple28&style=for-the-badge&label=Profile%20views&color=blueviolet"></img>
-</p>
-
------
-
+ 
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/maisa-rodrigues-674a2a218/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -104,10 +98,15 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 <a href="https://github.com/amaple28" target="_blank"><img alt"github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
+<p align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=Amaple28&style=for-the-badge&label=Profile%20views&color=blueviolet"></img>
+</p>
+
 -----
 
 
-<div align="center">
+<div>
+<p align="center">
                                    
 ```text	
     
@@ -119,10 +118,10 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 ██║  ██║ ██║ ╚═╝ ██║ ██║  ██║ ██║      ███████║ ██████╗
 ╚═╝  ╚═╝ ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝      ╚══════╝ ╚═════╝
 ```
+</p>
 </div> 
 
-
------
+ 
 
 <div>
 <table align="center">
