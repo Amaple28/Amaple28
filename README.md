@@ -105,8 +105,7 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 -----
 
 
-<div>
-<p align="center">
+<div> 
                                    
 ```text	
     
@@ -117,29 +116,8 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 ██╔══██║ ██║╚██╔╝██║ ██╔══██║ ██╔════╝ ██╚════╗ ██╔═══╝
 ██║  ██║ ██║ ╚═╝ ██║ ██║  ██║ ██║      ███████║ ██████╗
 ╚═╝  ╚═╝ ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝      ╚══════╝ ╚═════╝
-```
-</p>
+``` 
 </div> 
 
- 
-
-<div>
-<table align="center">
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="img/logo.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td>
-| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2023 Aramuni</a> 
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
+  
 <!--- Obrigada pela visita! -->
