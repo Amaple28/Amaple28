@@ -9,7 +9,7 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Maisa</code>, tenho 19 anos, moro em BH e sou programador desde os 16 anos de idade. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i> :man_teacher:.<br />
+<i><b>Olá</b> :wave:, sou a <code>Maisa</code>, tenho 19 anos, moro em Pedro Leopoldo e sou programador desde os 16 anos de idade. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i> :man_teacher:.<br />
 </div>
 
 -----
@@ -18,10 +18,10 @@
 
 <div align="justify">
 Técnico em <a href="https://polimig.com.br/tecnico-informatica/" target="_blank">Informática</a> pela <a href="https://polimig.com.br/" target="_blank">Escola Politécnica de Minas Gerais</a> (2020-2022). 
-Cursa graduação em <a href="https://newtonpaiva.br/cursos/graduacao/sistemas-de-informacao/" target="_blank">Sistemas de Informação</a> pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> (2023-2027). 
-Profissional com 2 anos de experiência no mercado de desenvolvimento de sistemas e há 4 anos estudante na área de tecnologia. 
+Cursa graduação em <a href="https://newtonpaiva.br/cursos/graduacao/sistemas-de-informacao/" target="_blank">Sistemas de Informação</a> pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> (2023-2026). 
+Profissional com 2 anos e meio de experiência no mercado de desenvolvimento de sistemas e há 4 anos estudante na área de tecnologia. 
 Atualmente, é Desenvolvedor full-stack Júnior na <a href="https://escalarcomunicacao.com.br/" target="_blank">Escalar Comunicação</a>, 
-usando as Linguagens PHP, JS, HTML, CSS junto com as frameworks e bibliotecas como Laravel, Bootstrap, Materialize, Tailwind, React e jQuery.
+usando as Linguagens PHP, JS, HTML, CSS junto com as frameworks e bibliotecas como Laravel, Bootstrap, Materialize, Tailwind, React, Angular e jQuery.
 Para desenvolvimento de sistemas ERP, CRM, PDV e Gerenciador Alphasignage com soluções para suprir as necessidades dos clientes para o crescimento da sua empresa.
 Possui vivência nos campos de: Desenvolvimento de software, Documentação ágil, Implantação de sistemas em âmbito global, Manutenção de sistemas legados, Design patterns e Metodologias ágeis: Kanban e Scrum.
 </div>
@@ -33,7 +33,11 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 
 <img height="20" alt="GIF" src="img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 <div align="center">
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="img/python.png?raw=true"/></a></code>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,typescript,nodejs,laravel,php,c,mysql,cpp,python,js,jquery,react,angular,tailwind,vscode,github,codepen,bootstrap,figma,postman,pycharm,idea,eclipse,git&theme=dark)](https://github.com/tandpfun/skill-icons)
+
+
+<!-- <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="img/python.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="img/c.png?raw=true"/></a></code>
 &nbsp; 
@@ -72,7 +76,7 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="img/eclipse.png"/></a></code>
 &nbsp;  
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="img/vs.png"/></a></code>
-&nbsp;
+&nbsp; -->
 </div>
 
 -----
@@ -86,23 +90,14 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
     <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amaple28&theme=github_dark"/>
 </div> 
 
------
-
-<div> 
-<img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
-<img src="https://img.shields.io/badge/Java-Expert-blue"/>  
-<img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
-<img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/> 
-<img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>  
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
-<br />
-<img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
-</div>
+<p align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=Amaple28&style=for-the-badge&label=Profile%20views&color=blueviolet"></img>
+</p>
 
 -----
 
-<div> 
+
+<div align="center"> 
 <a href="https://www.linkedin.com/in/maisa-rodrigues-674a2a218/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:maisagabirodrigues@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/5531991805907" target="_blank"><img alt"WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -148,10 +143,4 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 </table>
 </div>
 
------
-
-<div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="img/footer-gray.gif?raw=true"/>
-</div>
-
-<!--- Obrigado pela visita! -->
+<!--- Obrigada pela visita! -->
