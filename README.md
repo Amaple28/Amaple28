@@ -105,7 +105,7 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 -----
 
 
-<div> 
+<!-- <div> 
                                    
 ```text	
     
@@ -117,7 +117,7 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 ██║  ██║ ██║ ╚═╝ ██║ ██║  ██║ ██║      ███████║ ██████╗
 ╚═╝  ╚═╝ ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝      ╚══════╝ ╚═════╝
 ``` 
-</div> 
+</div>  -->
 
   
 <!--- Obrigada pela visita! -->
