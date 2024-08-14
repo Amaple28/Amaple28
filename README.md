@@ -23,7 +23,7 @@ Profissional com 3 anos de experiência no mercado de desenvolvimento de sistema
 Atualmente, é Desenvolvedor full-stack Júnior na <a href="https://escalarcomunicacao.com.br/" target="_blank">Escalar Comunicação</a>, 
 usando as Linguagens PHP, JS, HTML, CSS junto com as frameworks e bibliotecas como Laravel, Bootstrap, Materialize, Tailwind, React, Angular e jQuery.
 Para desenvolvimento de sistemas ERP, CRM, PDV e Gerenciador Alphasignage com soluções para suprir as necessidades dos clientes para o crescimento da sua empresa.
-Possui vivência nos campos de: Desenvolvimento de software, Documentação ágil, Implantação de sistemas em âmbito global, Manutenção de sistemas legados, Design patterns e Metodologias ágeis: Kanban e Scrum.
+Possui vivência nos campos de: Desenvolvimento de software, Documentação ágil, Implantação de sistemas em âmbito global, Manutenção de sistemas legados, Design patterns e Metodologias ágeis: Kanban e Scrum. Além da sua trajetória profissional, é a fundadora da empresa <a href="https://isluwebdesign.com.br" target="_blank"> ISLU Web Design</a>, onde ajuda outras empresas a transformar suas ideias em experiências mágicas com soluções digitais inovadoras. Trabalhando tanto com desenvolvimento quanto com design gráfico para redes sociais. Ela continua a expandir suas habilidades e a liderar projetos que fazem a empresa se destacar no mundo digital.
 </div>
 
 -----
