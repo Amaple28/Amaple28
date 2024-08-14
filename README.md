@@ -9,7 +9,7 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Maisa</code>, tenho 19 anos, moro em Pedro Leopoldo e sou programador desde os 16 anos de idade. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i> :man_teacher:.<br />
+<i><b>Olá</b> :wave:, sou a <code>Maisa</code>, tenho 20 anos, moro em Pedro Leopoldo e sou programador desde os 16 anos de idade. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i> :man_teacher:.<br />
 </div>
 
 -----
@@ -19,7 +19,7 @@
 <div align="justify">
 Técnico em <a href="https://polimig.com.br/tecnico-informatica/" target="_blank">Informática</a> pela <a href="https://polimig.com.br/" target="_blank">Escola Politécnica de Minas Gerais</a> (2020-2022). 
 Cursa graduação em <a href="https://newtonpaiva.br/cursos/graduacao/sistemas-de-informacao/" target="_blank">Sistemas de Informação</a> pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> (2023-2026). 
-Profissional com 2 anos e meio de experiência no mercado de desenvolvimento de sistemas e há 4 anos estudante na área de tecnologia. 
+Profissional com 3 anos de experiência no mercado de desenvolvimento de sistemas e há 5 anos estudante na área de tecnologia. 
 Atualmente, é Desenvolvedor full-stack Júnior na <a href="https://escalarcomunicacao.com.br/" target="_blank">Escalar Comunicação</a>, 
 usando as Linguagens PHP, JS, HTML, CSS junto com as frameworks e bibliotecas como Laravel, Bootstrap, Materialize, Tailwind, React, Angular e jQuery.
 Para desenvolvimento de sistemas ERP, CRM, PDV e Gerenciador Alphasignage com soluções para suprir as necessidades dos clientes para o crescimento da sua empresa.
@@ -93,8 +93,8 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/maisa-rodrigues-674a2a218/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:maisagabirodrigues@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5531991805907" target="_blank"><img alt"WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:islu.webdesign@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5531999105993" target="_blank"><img alt"WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://github.com/amaple28" target="_blank"><img alt"github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
