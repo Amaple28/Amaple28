@@ -9,7 +9,7 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Maisa</code>, tenho 20 anos, moro em Pedro Leopoldo e sou programador desde os 16 anos de idade. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i> :man_teacher:.<br />
+<i><b>Olá</b> :wave:, sou a <code>Maisa</code>, tenho 21 anos, moro em Pedro Leopoldo e sou programador desde os 16 anos de idade. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i> :man_teacher:.<br />
 </div>
 
 -----
@@ -19,7 +19,7 @@
 <div align="justify">
 Técnico em <a href="https://polimig.com.br/tecnico-informatica/" target="_blank">Informática</a> pela <a href="https://polimig.com.br/" target="_blank">Escola Politécnica de Minas Gerais</a> (2020-2022). 
 Cursa graduação em <a href="https://newtonpaiva.br/cursos/graduacao/sistemas-de-informacao/" target="_blank">Sistemas de Informação</a> pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> (2023-2026). 
-Profissional com 3 anos de experiência no mercado de desenvolvimento de sistemas e há 5 anos estudante na área de tecnologia. 
+Profissional com 4 anos de experiência no mercado de desenvolvimento de sistemas e há 6 anos estudante na área de tecnologia. 
 Atualmente, é Desenvolvedor full-stack Júnior na <a href="https://escalarcomunicacao.com.br/" target="_blank">Escalar Comunicação</a>, 
 usando as Linguagens PHP, JS, HTML, CSS junto com as frameworks e bibliotecas como Laravel, Bootstrap, Materialize, Tailwind, React, Angular e jQuery.
 Para desenvolvimento de sistemas ERP, CRM, PDV e Gerenciador Alphasignage com soluções para suprir as necessidades dos clientes para o crescimento da sua empresa.
