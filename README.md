@@ -6,16 +6,10 @@
 <img align="center" alt="Header" src="img/readme.png"/>
 </div>
 
------
-
-<div align="justify"> 
-<h1 align="center">Maisa Rodrigues | Software Engineer & Full-Stack Developer</h1> 
-</div>
-
------
+----- 
 
 <img height="20" alt="GIF" src="img/soulgem.gif?raw=true"/>Sobre mim:
-
+<h1 align="center">Maisa Rodrigues | Software Engineer & Full-Stack Developer</h1> 
 <div align="justify">
 Profissional com 4 anos de experiência consolidada no mercado de tecnologia, especializada no desenvolvimento de ecossistemas complexos e integrações de alta criticidade. Minha trajetória é focada na entrega de soluções escaláveis que unem performance técnica e objetivos de negócio.
 Apaixonada por inovação, busco constantemente aprimorar minhas habilidades e explorar novas tecnologias para criar produtos que realmente façam a diferença. Com uma abordagem orientada a resultados, estou sempre pronta para enfrentar desafios e contribuir para o sucesso de projetos ambiciosos.
@@ -23,16 +17,32 @@ Apaixonada por inovação, busco constantemente aprimorar minhas habilidades e e
 
 -----
 
-<img height="20" alt="GIF" src="img/skills.gif?raw=true"/>&nbsp;Expertise Técnica & Engenharia de Sistemas:
+<img height="20" alt="GIF" src="img/graphic.gif?raw=true"/>&nbsp;Expertise Técnica & Engenharia de Sistemas:
 <div align="justify">
-- **Arquitetura Full-Stack**: Desenvolvimento end-to-end utilizando PHP (Laravel) e ReactJS, com foco em código limpo e sistemas de alta disponibilidade.
-- **Ecossistemas ERP & CRM**: Experiência na sustentação e evolução de sistemas de gestão empresarial de larga escala, garantindo a integridade de dados e fluidez de processos internos.
-- **Fintech & Gateway de Pagamentos**: Implementação de checkouts e integrações diretas com Banco Inter, C6 Bank, Sicoob, PayPal e Mercado Pago.
-- **Conformidade Fiscal Nacional**: Especialista em automação de faturamento, com domínio na emissão de NF-e (Produto) e NFS-e (Serviço), integrando o novo padrão da NFS-e Nacional e APIs governamentais.
-- **Integração de Hardware (IoT)**: Desenvolvimento de soluções que conectam software ao mundo físico, como sistemas de pesagem com balanças comerciais e coleta de feedback via botoeiras físicas (NPS).
-- **Digital Signage & Mídia Indoor**: Gestão técnica e desenvolvimento de soluções para AlphaSignage e sistemas de Video Wall.
-- **Implantação Global**: Vivência na entrega de sistemas em escala internacional, lidando com manutenção de sistemas legados e refatoração para escalabilidade.
-- **Consumo de Dados em Real-Time**: Desenvolvimento de layouts RSS dinâmicos para processamento de XML em interfaces de tempo real (clima, cotações, loterias).
+
+- 💻 **Arquitetura Full-Stack**<br>
+  Desenvolvimento end-to-end utilizando PHP (Laravel) e ReactJS, com foco em código limpo e sistemas de alta disponibilidade.
+
+- 🏢 **Ecossistemas ERP & CRM**<br>
+  Experiência na sustentação e evolução de sistemas de gestão empresarial de larga escala, garantindo a integridade de dados e fluidez de processos internos.
+
+- 💳 **Fintech & Gateway de Pagamentos**<br>
+  Implementação de checkouts e integrações diretas com Banco Inter, C6 Bank, Sicoob, PayPal e Mercado Pago.
+
+- 📄 **Conformidade Fiscal Nacional**<br>
+  Especialista em automação de faturamento, com domínio na emissão de NF-e (Produto) e NFS-e (Serviço), integrando o novo padrão da NFS-e Nacional e APIs governamentais.
+
+- 🔌 **Integração de Hardware (IoT)**<br>
+  Desenvolvimento de soluções que conectam software ao mundo físico, como sistemas de pesagem com balanças comerciais e coleta de feedback via botoeiras físicas (NPS).
+
+- 📺 **Digital Signage & Mídia Indoor**<br>
+  Gestão técnica e desenvolvimento de soluções para AlphaSignage e sistemas de Video Wall.
+
+- 🌍 **Implantação Global**<br>
+  Vivência na entrega de sistemas em escala internacional, lidando com manutenção de sistemas legados e refatoração para escalabilidade.
+
+- ⚡ **Consumo de Dados em Real-Time**<br>
+  Desenvolvimento de layouts RSS dinâmicos para processamento de XML em interfaces de tempo real (clima, cotações, loterias).
 
 </div>
 
