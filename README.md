@@ -9,6 +9,7 @@
 ----- 
 
 <h1 align="center">Maisa Rodrigues | Software Engineer & Full-Stack Developer</h1> 
+
 <img height="20" alt="GIF" src="img/soulgem.gif?raw=true"/>&nbsp;Sobre mim:
 <div align="justify">
 Profissional com 4 anos de experiência consolidada no mercado de tecnologia, especializada no desenvolvimento de ecossistemas complexos e integrações de alta criticidade. Minha trajetória é focada na entrega de soluções escaláveis que unem performance técnica e objetivos de negócio.
