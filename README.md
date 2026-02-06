@@ -8,8 +8,8 @@
 
 ----- 
 
-<img height="20" alt="GIF" src="img/soulgem.gif?raw=true"/>Sobre mim:
 <h1 align="center">Maisa Rodrigues | Software Engineer & Full-Stack Developer</h1> 
+<img height="20" alt="GIF" src="img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
 Profissional com 4 anos de experiência consolidada no mercado de tecnologia, especializada no desenvolvimento de ecossistemas complexos e integrações de alta criticidade. Minha trajetória é focada na entrega de soluções escaláveis que unem performance técnica e objetivos de negócio.
 Apaixonada por inovação, busco constantemente aprimorar minhas habilidades e explorar novas tecnologias para criar produtos que realmente façam a diferença. Com uma abordagem orientada a resultados, estou sempre pronta para enfrentar desafios e contribuir para o sucesso de projetos ambiciosos.
@@ -17,7 +17,7 @@ Apaixonada por inovação, busco constantemente aprimorar minhas habilidades e e
 
 -----
 
-<img height="20" alt="GIF" src="img/graphic.gif?raw=true"/>&nbsp;Expertise Técnica & Engenharia de Sistemas:
+Expertise Técnica & Engenharia de Sistemas:
 <div align="justify">
 
 - 💻 **Arquitetura Full-Stack**<br>
