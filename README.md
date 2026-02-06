@@ -3,13 +3,13 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="img/header.png"/>
+<img align="center" alt="Header" src="img/readme.png"/>
 </div>
 
 -----
 
-<div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Maisa</code>, tenho 21 anos, moro em Pedro Leopoldo e sou programador desde os 16 anos de idade. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i> :man_teacher:.<br />
+<div align="justify"> 
+<h1 align="center">Maisa Rodrigues | Software Engineer & Full-Stack Developer</h1> 
 </div>
 
 -----
@@ -17,13 +17,23 @@
 <img height="20" alt="GIF" src="img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Técnico em <a href="https://polimig.com.br/tecnico-informatica/" target="_blank">Informática</a> pela <a href="https://polimig.com.br/" target="_blank">Escola Politécnica de Minas Gerais</a> (2020-2022). 
-Cursa graduação em <a href="https://newtonpaiva.br/cursos/graduacao/sistemas-de-informacao/" target="_blank">Sistemas de Informação</a> pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> (2023-2026). 
-Profissional com 4 anos de experiência no mercado de desenvolvimento de sistemas e há 6 anos estudante na área de tecnologia. 
-Atualmente, é Desenvolvedor full-stack Júnior na <a href="https://escalarcomunicacao.com.br/" target="_blank">Escalar Comunicação</a>, 
-usando as Linguagens PHP, JS, HTML, CSS junto com as frameworks e bibliotecas como Laravel, Bootstrap, Materialize, Tailwind, React, Angular e jQuery.
-Para desenvolvimento de sistemas ERP, CRM, PDV e Gerenciador Alphasignage com soluções para suprir as necessidades dos clientes para o crescimento da sua empresa.
-Possui vivência nos campos de: Desenvolvimento de software, Documentação ágil, Implantação de sistemas em âmbito global, Manutenção de sistemas legados, Design patterns e Metodologias ágeis: Kanban e Scrum. Além da sua trajetória profissional, é a fundadora da empresa <a href="https://www.isluwebdesign.com.br" target="_blank"> ISLU Web Design</a>, onde ajuda outras empresas a transformar suas ideias em experiências mágicas com soluções digitais inovadoras. Trabalhando tanto com desenvolvimento quanto com design gráfico para redes sociais. Ela continua a expandir suas habilidades e a liderar projetos que fazem a empresa se destacar no mundo digital.
+Profissional com 4 anos de experiência consolidada no mercado de tecnologia, especializada no desenvolvimento de ecossistemas complexos e integrações de alta criticidade. Minha trajetória é focada na entrega de soluções escaláveis que unem performance técnica e objetivos de negócio.
+Apaixonada por inovação, busco constantemente aprimorar minhas habilidades e explorar novas tecnologias para criar produtos que realmente façam a diferença. Com uma abordagem orientada a resultados, estou sempre pronta para enfrentar desafios e contribuir para o sucesso de projetos ambiciosos.
+</div>
+
+-----
+
+<img height="20" alt="GIF" src="img/skills.gif?raw=true"/>&nbsp;Expertise Técnica & Engenharia de Sistemas:
+<div align="justify">
+- **Arquitetura Full-Stack**: Desenvolvimento end-to-end utilizando PHP (Laravel) e ReactJS, com foco em código limpo e sistemas de alta disponibilidade.
+- **Ecossistemas ERP & CRM**: Experiência na sustentação e evolução de sistemas de gestão empresarial de larga escala, garantindo a integridade de dados e fluidez de processos internos.
+- **Fintech & Gateway de Pagamentos**: Implementação de checkouts e integrações diretas com Banco Inter, C6 Bank, Sicoob, PayPal e Mercado Pago.
+- **Conformidade Fiscal Nacional**: Especialista em automação de faturamento, com domínio na emissão de NF-e (Produto) e NFS-e (Serviço), integrando o novo padrão da NFS-e Nacional e APIs governamentais.
+- **Integração de Hardware (IoT)**: Desenvolvimento de soluções que conectam software ao mundo físico, como sistemas de pesagem com balanças comerciais e coleta de feedback via botoeiras físicas (NPS).
+- **Digital Signage & Mídia Indoor**: Gestão técnica e desenvolvimento de soluções para AlphaSignage e sistemas de Video Wall.
+- **Implantação Global**: Vivência na entrega de sistemas em escala internacional, lidando com manutenção de sistemas legados e refatoração para escalabilidade.
+- **Consumo de Dados em Real-Time**: Desenvolvimento de layouts RSS dinâmicos para processamento de XML em interfaces de tempo real (clima, cotações, loterias).
+
 </div>
 
 -----
@@ -31,10 +41,10 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 
 <div>
 
-<img height="20" alt="GIF" src="img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="GIF" src="img/skills.gif?raw=true"/>&nbsp;Stack Tecnológica:
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,typescript,nodejs,laravel,php,c,mysql,cpp,python,js,jquery,react,angular,tailwind,vscode,github,codepen,bootstrap,figma,postman,pycharm,idea,eclipse,git&theme=dark)](https://github.com/tandpfun/skill-icons)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,typescript,nodejs,laravel,php,c,mysql,cpp,python,js,jquery,react,tailwind,vscode,github,codepen,bootstrap,figma,postman,pycharm,idea,eclipse,git&theme=dark)](https://github.com/tandpfun/skill-icons)
 
 
 <!-- <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="img/python.png?raw=true"/></a></code>
@@ -93,8 +103,8 @@ Possui vivência nos campos de: Desenvolvimento de software, Documentação ági
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/maisa-rodrigues-674a2a218/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:islu.webdesign@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5531999105993" target="_blank"><img alt"WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:maisagabirodrigues@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5531991805907" target="_blank"><img alt"WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://github.com/amaple28" target="_blank"><img alt"github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
